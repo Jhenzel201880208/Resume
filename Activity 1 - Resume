@@ -1,0 +1,131 @@
+<DOCTYPE! html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+    <style> img{border-radius: 20%}
+        header {padding: 30px;
+                text-align: center;
+                font-size: 35px}
+        box-sizing: border-box;
+        header {display: block}
+        h1{margin:5px;font-size:2em;font-weight:bold;}
+        h2{font-size:1.4em;font-weight:bold;margin:5px 0;}
+        aside { 
+         width: 100%;
+         padding-left: 70px;
+         margin-left: 70px;
+         float: right;
+         font-family: arial;
+         
+        }
+        table, th, td {
+        border:1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        
+}
+        table.center {
+        margin-left: auto; 
+        margin-right: auto;
+}
+        
+       body{text-align:center;margin:0;padding:0;line-height:1.5em;}
+    </style>
+<title> Resume - Jhenzel Rodriguez </title>
+        </head>
+    <body style="background-color:powderblue;">
+        <img src="2048px-Circle_-_black_simple.svg" style="width: 50px">
+        <aside>
+            <h1>
+           
+                Jhenzel B. Rodriguez 
+          
+            </h1>
+        </aside>
+        <section>
+            <h2>
+                SUMMARY
+            </h2>
+            <p>
+                Patient, humble and accomodating to the customers. 10 years experience working as a cashier. %nbsp
+            </p>
+        </section>
+        <sectio>
+        <h2>
+            EXPERIENCE
+            </h2>
+            <table style="width: 20%" class="center">
+                <tr>
+                    <th>
+                        Company
+                    </th>
+                    <th style="width: 50%">
+                        Year of Experience
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        Jollibee
+                    </td>
+                    <td>
+                        5 years
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        McDonalds
+                    </td>
+                    <td>
+                        5 years
+                    </td>
+                </tr>
+            </table>
+        </sectio>
+        <section>
+            <h2>
+                EDUCATION
+            </h2>
+            <table style="width: 20%" class="center">
+                <tr>
+                    <th>
+                        School
+                    </th>
+                    <th style="width: 50%">
+                        Course
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        Senior High Schoool
+                    </td>
+                    <td>
+                       TECHVOC
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        College of Sciences
+                    </td>
+                    <td>
+                        BSIT
+                    </td>
+                </tr>
+            </table>
+            
+        </section>
+        <section>
+            <h2>
+                SKILLS
+            </h2>
+            <table style="width: 20%" class="center">
+                <tr>
+                    <td>Arts such as Drawing and Painting </td>
+                    <td>Efficient in using Microsoft Office such as WORD, POWERPOINT, and EXCEL </td>
+                </tr>    
+            </table>
+            
+        </section>
+        
+    </body>
+    </html>
+    </DOCTYPE!>
